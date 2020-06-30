@@ -1,3 +1,3 @@
 # minimo
 
-https://sanaaullah.github.io/mimo/
+https://sanaaullah.github.io/minimo/
